@@ -1,0 +1,26 @@
+LTspice 24.0.11 for Windows
+Circuit: * C:\Users\varun\Documents\IIITH\Sem4\EW2\Darlington.asc
+Start Time: Sun Jan 12 16:40:36 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node -vee.  This node is used by v2.
+Direct Newton iteration for .op point succeeded.
+N-Period=10.00
+Fourier components of V(speaker)
+DC component:-0.0358013
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+3	 2.230e+0	 1.000e+0	   85.67°	    0.00°
+    2   	 2.000e+3	 1.207e-1	 5.412e-2	  176.13°	   90.47°
+    3   	 3.000e+3	 7.636e-2	 3.424e-2	   86.13°	    0.47°
+    4   	 4.000e+3	 4.852e-2	 2.176e-2	   -4.78°	  -90.44°
+Partial Harmonic Distortion: 6.764206%
+Total Harmonic Distortion:   7.029121%
+
+
+Total elapsed time: 0.143 seconds.
+
