@@ -1,0 +1,32 @@
+--- Bill of Materials ---
+
+Ref.	Mfg.	Part No.	Description
+C1	--	--	capacitor, 3µF
+C2	--	--	capacitor, 800µF
+C3	--	--	capacitor, 940µF
+C4	--	--	capacitor, 47nF
+C5	--	--	capacitor, 7.2pF
+D1	OnSemi	1N4148	diode
+D2	OnSemi	1N4148	diode
+Q1	NXP	BC547B	bipolar transistor
+Q2	NXP	BC547B	bipolar transistor
+Q3	NXP	BC547B	bipolar transistor
+Q4	--	TIP31A	bipolar transistor
+Q5	--	TIP32	bipolar transistor
+Q6	--	TIP32	bipolar transistor
+Q7	--	TIP31A	bipolar transistor
+R1	--	--	resistor, 3K
+R2	--	--	resistor, 100
+R3	--	--	resistor, 175K
+R4	--	--	resistor, 22K
+R5	--	--	resistor, 500K
+R6	--	--	resistor, 125
+R7	--	--	resistor, 2.3K
+R8	--	--	resistor, 2.3K
+R9	--	--	resistor, 7.5K
+R10	--	--	resistor, 10
+R11	--	--	resistor, 1K
+R12	--	--	resistor, 1K
+R13	--	--	resistor, 500K
+U1	(unknown)	UA741	(unknown 3rd party model)
+U2	(unknown)	UA741	(unknown 3rd party model)
