@@ -1,0 +1,25 @@
+LTspice 24.0.11 for Windows
+Circuit: * C:\Users\varun\OneDrive - IIIT Hyderabad\Sem4\EW2\Project1\AudioAmplifier\Team6_Submission\Poweramp_Stage.asc
+Start Time: Fri Jan 24 12:18:25 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+N-Period=10.00
+Fourier components of V(vo)
+DC component:-0.0425206
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+3	 4.028e+0	 1.000e+0	   88.80°	    0.00°
+    2   	 2.000e+3	 2.161e-3	 5.364e-4	 -137.12°	 -225.92°
+    3   	 3.000e+3	 4.661e-3	 1.157e-3	  -99.45°	 -188.25°
+    4   	 4.000e+3	 6.440e-4	 1.599e-4	 -122.90°	 -211.70°
+Partial Harmonic Distortion: 0.128529%
+Total Harmonic Distortion:   0.667175%
+
+
+Total elapsed time: 0.251 seconds.
+
